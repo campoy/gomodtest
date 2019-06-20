@@ -6,3 +6,8 @@ import "log"
 func Foo() {
 	log.Println("Foo was called")
 }
+
+// Bar bars things.
+func Bar() {
+	log.Println("Bar was called")
+}
