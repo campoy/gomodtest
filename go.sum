@@ -1,0 +1,5 @@
+github.com/campoy/gomodtest v0.0.0-20190624202901-4acf609b9c16 h1:OcLhJtT1Dnlf6UCevGvE5xeRcX1r712PHlqYqtwbgIk=
+github.com/campoy/gomodtest v0.0.0-20190624202901-4acf609b9c16/go.mod h1:eH8J9qfw9KdB52lgYAN6DsgJT4fF1/7fO66py0+nEGY=
+github.com/campoy/gomodtest v1.1.0 h1:GSswcV8UO8QWQyejUByzl7KljijMOSqIoZulBnIOxMM=
+github.com/campoy/gomodtest/v2 v2.0.0 h1:tktAKXjWliXVxeJslu/+aeL0ESzekqa8qlW5k0shMd8=
+github.com/campoy/gomodtest/v2 v2.0.0/go.mod h1:V9f1dEfCPO5PrV9tEWqAuMAkG1SVybG3Lo0XUnNfZMo=
