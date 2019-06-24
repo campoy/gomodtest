@@ -1,5 +1,3 @@
-module github.com/campoy/gomodtest
+module github.com/campoy/gomodtest/v2
 
 go 1.12
-
-replace github.com/campoy/gomodtest => ./
